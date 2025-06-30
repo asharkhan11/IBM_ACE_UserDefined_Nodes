@@ -93,7 +93,7 @@ propertyName :
 
 ## 📥 Input Format
 
-The input message to the node should be in **JSON** format, like this:
+The input message to the node should be in **JSON** format, like this (if you are Encrypting or Decrypting data):
 
 ```json
 {
